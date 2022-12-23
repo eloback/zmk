@@ -36,5 +36,9 @@
 };
 
 &default_transform {
-    col-offset = <10>;
-};
+		col-offset = <11>;
+	};
+
+&urobs_transform {
+		col-offset = <12>;
+	};
