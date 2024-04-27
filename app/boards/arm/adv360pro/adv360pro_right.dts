@@ -41,5 +41,5 @@
 	};
 
 &urobs_transform {
-		col-offset = <10>;
+		col-offset = <12>;
 	};
