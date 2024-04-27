@@ -39,6 +39,7 @@
 &default_transform {
 		col-offset = <11>;
 	};
+
 &urobs_transform {
-		col-offset = <11>;
+		col-offset = <10>;
 	};
